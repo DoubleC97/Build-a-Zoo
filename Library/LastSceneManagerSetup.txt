@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Aaron_s Prototypes (1)/Aaron_s Scene (1).unity
+  isLoaded: 1
+  isActive: 1
