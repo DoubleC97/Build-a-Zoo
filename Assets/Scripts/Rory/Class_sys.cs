@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+public class Class_sys : MonoBehaviour
+{
+
+}
 public class Object
 {
     float X_pos;

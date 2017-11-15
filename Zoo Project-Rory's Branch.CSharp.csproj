@@ -77,11 +77,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Class_sys.cs" />
-    <Compile Include="Assets\Scripts\ShaderManip.cs" />
+    <Compile Include="Assets\Scripts\Rory\Class_sys.cs" />
+    <Compile Include="Assets\Scripts\Rory\EnvironmentLightingscript.cs" />
+    <Compile Include="Assets\Scripts\Rory\ShaderManip.cs" />
+    <Compile Include="Assets\Scripts\Rory\StarManager.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Material\MYShader.shader" />
+    <None Include="Assets\Material\Rory\MYShader.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
