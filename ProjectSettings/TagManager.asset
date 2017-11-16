@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Shelter
-  - Animal
+  - text
+  - Wall
+  - Window
+  - EnclosureMarker
   layers:
   - Default
   - TransparentFX
